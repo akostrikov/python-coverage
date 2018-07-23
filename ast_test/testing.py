@@ -9,7 +9,7 @@ def main():
     if f(i) < 0: x=9
     if i == 8:
        continue
-       print "Here"
+       print("Here")
     if i == 10:
        continue
 
